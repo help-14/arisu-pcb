@@ -1,5 +1,6 @@
 # Arisu Keyboard PCB
 アリス PCB designed using KiCad. The layout is inspired by Lyn's EM7 and TGR Alice with some modification of my own.
+This Fork version change Micro USB to Mini USB.
 
 Key differences:
 - I removed the extra [B] key on the right half and shifted the [NM,.?] row to the left by 0.25U.
